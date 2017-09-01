@@ -1,2 +1,0 @@
-# 2017-2018_1st_ComputerIntroduction
-2017-2018_1st_ComputerIntroduction
