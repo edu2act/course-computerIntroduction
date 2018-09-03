@@ -38,5 +38,5 @@
 
 <img src="./image/09.png" height="400" /> 
 
-<img src="./image/10.png" height="400" /> 
+<img src="./image/10.png" height="200" /> 
 
