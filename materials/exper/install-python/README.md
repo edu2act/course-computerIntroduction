@@ -5,7 +5,7 @@
 
 #### 1. 进入Python官网（[https://www.python.org/](https://www.python.org/)），选择`Downloads`菜单下的`Windows`选项。
 
-![Python官网](image/01.png)
+<img src="./image/01.png" height="250" /> 
 
 #### 2. 在弹出的网页中，选择Python3（Python3.x.x开头即可)的`Windows XXXX executable installer`版本，32位或64位根据电脑系统决定。
 
