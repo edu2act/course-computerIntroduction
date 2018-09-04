@@ -12,7 +12,7 @@
 
 #### 2. 打开安装文件，并点击`Next`按钮。
 
-<img src="./image/02.png" height="300" /> 
+<img src="./image/02.png" height="200" /> 
 
 <img src="./image/03.png" height="400" />
 
@@ -24,7 +24,7 @@
 
 <img src="./image/05.png" height="400" />
 
-#### 5. 在选择开始菜单目录窗口中，直接点击`Next`按钮，并等待安装完成。
+#### 5. 在选择开始菜单目录窗口中，直接点击`Install`按钮，并等待安装完成。
 
 <img src="./image/06.png" height="400" />
 
@@ -38,11 +38,11 @@
 
 #### 7. 在如下窗口中勾选`Do not import settings`选项，并点击`OK`选项。
 
-<img src="./image/10.png" height="400" />
+<img src="./image/10.png" height="200" />
 
 #### 8. 在协议窗口将右侧滚轮拖至最下方，并点击`Accept`按钮。
 
-<img src="./image/11.png" height="300" />
+<img src="./image/11.png" height="350" />
 
 #### 9. 如果弹出如下数据共享窗口，点击`Don't send`按钮。
 
