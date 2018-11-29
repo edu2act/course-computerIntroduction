@@ -15,6 +15,7 @@
 | 第一章 | [计算机概述](./materials/pdf/ch01/ch01.pdf) ||
 | 第二章 | [计算机中的数据](./materials/pdf/ch02/ch02.pdf) ||
 | 第三章 | [Python语言及应用](./materials/pdf/ch03/ch03.pdf) ||
+| 第四章 | [程序设计引导](./materials/pdf/ch04/ch04.pdf) ||
 
 
 ## 环境配置
