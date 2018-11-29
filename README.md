@@ -11,7 +11,7 @@
 ## 课程内容
 
 | 章节 | 名称 | 内容 | 课件 |
-|:---:|:---|:---|:---|
+|:---:|:---:|:---:|:---:|
 | 第一章 | 计算机概述 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01/ch01.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01.pptx) |
 | 第二章 | 计算机中的数据 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch02/ch02.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch02.pptx) |
 | 第三章 | Python语言及应用 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch03/ch03.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch03.pptx) |
