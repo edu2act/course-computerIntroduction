@@ -17,6 +17,7 @@
 | 第三章 | Python语言及应用 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch03/ch03.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch03.pptx) |
 | 第四章 | 程序设计引导 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch04/ch04.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch04.pptx) |
 | 第五章 | 操作系统简介 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch05/ch05.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch05.pptx) |
+| 第六章 | 计算机网络与物联网 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch06/ch06.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch06.pptx) |
 
 ## 环境配置
 
