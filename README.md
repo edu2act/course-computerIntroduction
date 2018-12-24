@@ -7,6 +7,8 @@
 
 - [课程内容](#课程内容)
 - [环境配置](#环境配置)
+- 教学大纲 [<img src="./image/presentation.png" height="15" />查看](./materials/outline.pdf) [<img src="./image/download.png" height="15" />下载](./materials/outline.docx)
+- 课程进度表 [<img src="./image/presentation.png" height="15" />查看](./materials/schedule.pdf) [<img src="./image/download.png" height="15" />下载](./materials/schedule.doc)
 
 ## 课程内容
 
