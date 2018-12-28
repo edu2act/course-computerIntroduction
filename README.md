@@ -21,6 +21,7 @@
 | 第五章 | 操作系统简介 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch05/ch05.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch05.pptx) |
 | 第六章 | 计算机网络与物联网 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch06/ch06.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch06.pptx) |
 | 第七章 | 数据库系统概论 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch07/ch07.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch07.pptx) |
+| 第八章 | 算法 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch08/ch08.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch08.pptx) |
 
 ## 环境配置
 
