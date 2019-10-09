@@ -66,6 +66,7 @@
 <img src="./image/17.png" height="400" />
 <img src="./image/18.png" height="150" />
 
-#### 14. 创建Python文件之后，便可在其中编写Python代码，并点击运行按钮，并在主窗口下方的`Run`标签窗口中看到运行结果。
+#### 14. 创建Python文件之后，便可在其中编写Python代码，并选中并右键点击Python代码所在.py文件，选择Run运行，在主窗口下方的`Run`标签窗口中看到运行结果。
 
 <img src="./image/19.png" height="400" />
+<img src="./image/20.png" height="400" />
